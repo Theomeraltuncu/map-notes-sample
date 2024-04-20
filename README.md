@@ -1,4 +1,4 @@
-# Maps Notes sample
+# Map Notes sample
 Designed a simple map app with adding locations and notes
 
 # Used Technologies
